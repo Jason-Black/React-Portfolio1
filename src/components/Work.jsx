@@ -4,28 +4,23 @@ import WorkItem from "./WorkItem";
 const data = [
     {
       year: 2020,
-      title: "React Fundamentals",
-      duration: "3 hours",
-      details: "An introductory course on React covering the basics of components, state, and props.",
+      title: "Owner Operator",
+      duration: "Current",
+      details: "A multimedia webdesign and marketing company.",
     },
     {
-      year: 2021,
-      title: "Advanced React Patterns",
-      duration: "5 hours",
-      details: "A deep dive into advanced patterns in React including higher-order components, render props, and hooks.",
+      year: 2015,
+      title: "Senior Broadcast Tech",
+      duration: "5 Years",
+      details: "Broadcast, web, multimedia Video Editor @ExtremeReach NYC, International Broadcast and Distribution",
     },
     {
-      year: 2019,
-      title: "JavaScript ES6+ Features",
-      duration: "2.5 hours",
-      details: "An overview of new features introduced in ES6 and later versions, such as arrow functions, destructuring, and async/await.",
+      year: 2010,
+      title: "Broadcast Manager",
+      duration: "5 Years",
+      details: "Broadcast manager and senior video editor and producer for Ingles-Markets.com (I worked for a company called BClip Producions)",
     },
-    {
-      year: 2022,
-      title: "Full-Stack Development with MERN",
-      duration: "10 hours",
-      details: "A comprehensive course on full-stack web development using MongoDB, Express, React, and Node.js.",
-    }
+    
 ];
 
 const Work = () => {
